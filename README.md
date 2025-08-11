@@ -1,4 +1,4 @@
-# High Availability Nginx with Keepalived + Automatic Config Sync via lsyncd (Restricted SSH)
+# HA Nginx Reverse Proxy with Keepalived + Automatic Config Sync via lsyncd (Restricted SSH)
 
 This setup will:
 - Create an **active–passive Nginx HA cluster** using **Keepalived** and VRRP.
